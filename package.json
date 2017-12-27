@@ -1,0 +1,15 @@
+{
+  "name": "zhiliaoread-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tang Xiaoji",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.15.0",
+    "request": "^2.83.0"
+  }
+}
